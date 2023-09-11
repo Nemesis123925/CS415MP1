@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_Main.uasset",
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/yuxuang6/Downloads/YuxuanGuoMP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/GM_Tutorial.uasset",
+				"C:/Users/yuxuang6/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/yuxuang6/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/yuxuang6/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/yuxuang6/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap"
+			]
+		}
+	]
+}
